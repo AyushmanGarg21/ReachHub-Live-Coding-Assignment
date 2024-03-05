@@ -28,6 +28,9 @@ To get started with the project, follow these steps:
 
 4. Navigate to the project directory and start the frontend React application using `npm run dev`.
 
+## Documentation For JSON Server
+`https://github.com/typicode/json-server`
+
 ## Assessment Criteria
 
 When assessing this project, consider the following criteria:
